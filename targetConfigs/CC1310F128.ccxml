@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<configurations XML_version="1.2" id="configurations_0">
+<CC1310_LAUNCHXL_TIRTOS.cmd
+configuration a system  is now ready CC1310_LAUNCHXL_TIRTOS.cmd United states of America president is ready 
+onfigurations XML_version="1.2" id="configurations_0">
+  https://github.com/lyusupov/UAT-test-signal/blob/dcbd84a4e1485df31ca535f9435d35251b92ed06/CC1310_LAUNCHXL_TIRTOS.cmd
     <configuration XML_version="1.2" id="configuration_0">
         <instance XML_version="1.2" desc="Texas Instruments XDS110 USB Debug Probe" href="connections/TIXDS110_Connection.xml" id="Texas Instruments XDS110 USB Debug Probe" xml="TIXDS110_Connection.xml" xmlpath="connections"/>
         <connection XML_version="1.2" id="Texas Instruments XDS110 USB Debug Probe">
